@@ -7,8 +7,9 @@
 - Our organization contains repositories for laboratory works, lecture notes, scripts, and bots designed to automate arduous meaningless tasks.
 
 ### Team
-- Our organization includes members with diverse backgrounds and expertise, working with various programming languages, such as Kotlin, JavaScript, Java, 
-Ruby, Python, assembly, TypeScript, php and others. We believe that this variety of skills and interests will help us to create valuable and innovative projects
+- Our organization includes members with diverse backgrounds and expertise, working with various programming languages, such as `Kotlin`, `JavaScript`, `Java`, 
+`Ruby`, `C++`, `C#`, `Python`, `assembly`, `TypeScript`, `php` and others.   
+- We believe that this variety of skills and interests will help us to create valuable and innovative projects
 that can benefit the community.
 
 ### Contributing
