@@ -26,6 +26,7 @@ or reach out to our owner `@adagio_sostenuto` on Telegram.
 ### Disclaimer
 ```python
 All laboratory works and notes stored in this organization are for `educational` purposes only. 
+Any resemblance to real works, events or individuals is purely coincidental.  
 It is the responsibility of anyone who copies or reproduces this work to understand that they do so at their own risk. 
 The Imtjl organization is not responsible for any negative consequences that may arise from the use 
 or reproduction of any of the works stored in this organization.
