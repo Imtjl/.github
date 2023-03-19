@@ -4,12 +4,12 @@ Welcome to the `Imtjl` organization on GitHub! We appreciate your interest in co
 ### Getting Started
 1. First, make sure you have a GitHub account. If you don't, you can [sign up here](https://github.com/join).
 2. Fork the repository you want to explore or contribute to.   
-└ [How to fork repository](https://github.com/Imtjl/github-tutorials)   
-  &nbsp; &nbsp; &nbsp; └ [Why do you need to fork repo before cloning](https://github.com/Imtjl/github-tutorials)
+└ [How to fork repository](https://github.com/Imtjl/GitHub-Tutorials/)   
+  &nbsp; &nbsp; &nbsp; └ [Why do you need to fork repo before cloning](https://github.com/Imtjl/GitHub-Tutorials/)
 3. Clone the forked repository to your local machine.  
-└ [How to clone repository](https://github.com/Imtjl/github-tutorials)   
+└ [How to clone repository](https://github.com/Imtjl/GitHub-Tutorials/)   
 4. Create a new branch for your changes.  
-└ [How to set up a new branch](https://github.com/Imtjl/github-tutorials) 
+└ [How to set up a new branch](https://github.com/Imtjl/GitHub-Tutorials/) 
 
 ### Making Changes
 ```python
@@ -18,7 +18,7 @@ Welcome to the `Imtjl` organization on GitHub! We appreciate your interest in co
 3. Commit your changes and write a clear and concise commit message.
 4. Push your changes to your forked repository.
 ```
-&nbsp; &nbsp; └ [Managing repository on your local machine](https://github.com/Imtjl/github-tutorials) 
+&nbsp; &nbsp; └ [Managing repository on your local machine](https://github.com/Imtjl/GitHub-Tutorials/) 
 
 ### Submitting Changes
 ```python
@@ -26,7 +26,7 @@ Welcome to the `Imtjl` organization on GitHub! We appreciate your interest in co
 2. Describe your changes and why they are necessary in the pull request.
 3. Wait for a member of the IMTJL organization to review your pull request.
 ```
-&nbsp; &nbsp; └ [Creating pull request](https://github.com/Imtjl/github-tutorials)
+&nbsp; &nbsp; └ [Creating pull request](https://github.com/Imtjl/GitHub-Tutorials/)
 
 ### Code of Conduct
 
