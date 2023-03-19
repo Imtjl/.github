@@ -13,7 +13,7 @@
 that can benefit the community.
 
 ### Contributing
-- If you want to contribute, follow this guide: [Contributing in Imtjl](https://github.com/Imtjl/.github/CONTRIBUTING.md)
+- If you want to contribute, follow this guide: [Contributing in Imtjl](https://github.com/Imtjl/.github/blob/main/CONTRIBUTING.md)
 
 ### Communicaion
 - If you have an idea for a new project or want to collaborate with someone,   
