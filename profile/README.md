@@ -1,4 +1,4 @@
-# IMTJL - It's More Than Just Labs
+# IMTJL - It's More Than Just Labs!
 
 <a id="overview"></a>
 <details>  
@@ -19,6 +19,15 @@
 
 </details>
 
+<a id="guides"></a>
+<details open>  
+    <summary><h2><b> Guides </b></h2></summary>
+
+- Here is [1st year guide](https://github.com/Imtjl/1st-year-guide) of the ITMO University Computer Science bachelor's program.
+
+</details>
+
+
 <a id="participation"></a>
 <details>  
     <summary><h2><b> Participation & Guidelines </b></h2></summary>
@@ -35,22 +44,7 @@
 
 - If you're interested in joining our team, please contact us via [email](morethanjustlabs@gmail.com) :mailbox:
 
-### Disclaimer
-
-```python
-All laboratory works and notes stored in this organization are for `educational` purposes only. 
-Any resemblance to real works, events or individuals is purely coincidental.  
-It is the responsibility of anyone who copies or reproduces this work to understand that they do so at their own risk. 
-The Imtjl organization is not responsible for any negative consequences that may arise from the use 
-or reproduction of any of the works stored in this organization.
-```
-
 </details>
 
-<a id="1guide"></a>
-<details open>  
-    <summary><h2><b> 1st year guide </b></h2></summary>
-
-- Here is [the guide](https://github.com/Imtjl/1st-year-guide) for the 1st year of the ITMO University Computer Science bachelor's program.
-
-</details>
+|All laboratory works and notes stored in this organization are for `educational` purposes only. Any resemblance to real works, events or individuals is purely coincidental. It is the responsibility of anyone who copies or reproduces this work to understand that they do so at `their own risk`. The Imtjl organization `is not responsible` for any negative consequences that may arise from the use or reproduction of any of the works stored in this organization.|
+|-|
