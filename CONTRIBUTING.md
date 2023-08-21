@@ -20,6 +20,48 @@ Welcome to the `Imtjl` organization on GitHub! We appreciate your interest in co
 ```
 &nbsp; &nbsp; └ [Managing repository on your local machine](https://github.com/Imtjl/GitHub-Tutorials/) 
 
+### Commit messages
+
+We use somewhat beautiful :sparkles: and outstanding :rocket: notation for commits!
+It would be familiar for those, who used conventional commits.
+
+Commit message should be in the following format:
+
+```
+type[!]: message
+```
+
+That is `type` optionally followed by exclamation mark, strictly followed by colon and ***one*** space, followed by a message. Total message length may exceed 80 characters (type is counted as one character), but it is recommended to make messages expressive and small.
+
+Type should be substituted with one of the following:
+
+- :sparkles:
+(`:sparkles:`) indicates new feature (analogue to `feat` tag in conventional commits)
+
+- :wrench:
+(`:wrench:`) improve or fix something (like somethis in between `refactor` and `fix` in conventional commits). Can be used interchangeably with :bug: (`:bug:`)
+
+
+- :bug:
+ (`:bug:`) Indicates bug fix! More like `fix` in conventional commits
+
+- :books:
+ (`:books:`) Denotes work on documentation (analogue is `doc` from conventional commits)
+
+- :hammer:
+ (`:hammer:`) General refactoring. Directory moves/additions/removals, project structure changes, work from ground up are all fall under this type
+
+- :recycle:
+  (`:recycle:`) same as :hammer: (`:hammer:`)
+
+- :rocket:
+ (`:rocket:`) Starting new great things (like new repository or subproject)!
+
+- :wastebasket:
+(`:wastebasket:`)
+ removing trash from repository like obsolete files
+
+
 ### Submitting Changes
 ```python
 1. Go to your forked repository on GitHub and create a pull request.
