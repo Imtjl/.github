@@ -28,12 +28,16 @@ It would be familiar for those, who used conventional commits.
 Commit message should be in the following format:
 
 ```
-type[!]: message
+type[!] message
 ```
 
-That is `type` optionally followed by exclamation mark, strictly followed by colon and ***one*** space, followed by a message. Total message length may exceed 80 characters (type is counted as one character), but it is recommended to make messages expressive and small.
+That is `type` optionally followed by exclamation mark, strictly followed by ***one*** space, followed by a message. 
 
-Type should be substituted with one of the following:
+Total message length may exceed 80 characters (type is counted as one character), but it is recommended to make messages expressive and small.
+
+Exclamation mark denotes breaking change. It is correlates with [`MAJOR`](https://semver.org/#summary) in Semantic Versioning. 
+
+Type should be one of the following:
 
 - :sparkles:
 (`:sparkles:`) indicates new feature (analogue to `feat` tag in conventional commits)
@@ -61,6 +65,15 @@ Type should be substituted with one of the following:
 (`:wastebasket:`)
  removing trash from repository like obsolete files
 
+#### Examples
+
+:bug: do not request auth token twice
+
+:sparkles: introduce commit message standard
+
+:books: document *that one* class
+
+:recycle: rework request handler
 
 ### Submitting Changes
 ```python
