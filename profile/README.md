@@ -23,7 +23,9 @@
 <details open style="margin-left: 30px;">  
     <summary><h2><b> Guides </b></h2></summary>
 
-- Here is [1st year guide](https://github.com/Imtjl/1st-year-guide) of the ITMO University Computer Science bachelor's program.
+- Here is [1st year guide](https://github.com/Imtjl/1st-year-guide) of the ITMO University CS / SWE bachelor's program.
+
+- [WIP] Here is [2nd year guide](https://github.com/Imtjl/2nd-year-guide) of the ITMO University CS / SWE bachelor's program.
 
 </details>
 
