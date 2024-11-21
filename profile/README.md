@@ -100,7 +100,7 @@
 </details>
 
 <a id="study"></a>
-<details open style="margin-left: 30px;">  
+<details close style="margin-left: 30px;">  
     <summary><h2><b> Basics </b></h2></summary>
 
 
