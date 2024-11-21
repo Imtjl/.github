@@ -45,10 +45,12 @@
   - [dict in x86_64 assembly](https://gitlab.se.ifmo.ru/worthant/assignment-2-dictionary)
   - [bmp image rotation in C](https://gitlab.se.ifmo.ru/worthant/assignment-3-image-rotation)
   - [memory allocator in C](https://gitlab.se.ifmo.ru/worthant/assignment-4-memory-allocator)
-  - [sepia filter in C](https://gitlab.se.ifmo.ru/worthant/assignment-5-sepia-filter)
+  - [sepia filter in C with optimisation in SSE instructions](https://gitlab.se.ifmo.ru/worthant/assignment-5-sepia-filter)
 
 - **Computer architecture**
-  - [public speech](https://www.youtube.com/watch?v=KgqbdfvPVvw): Comparative analysis of JIT vs AOT compilation using LLVM and V8 as an example
+  - **public speech**: Comparative analysis of JIT vs AOT compilation using LLVM and V8 as an example
+    - [google slides](https://docs.google.com/presentation/d/1MX4ncNFWxOD9xbVU_oJL9lUENa4iiAXkTgvFqupMaPc/edit?usp=sharing)
+    - [recording](https://www.youtube.com/watch?v=KgqbdfvPVvw)
   - **project**: RiscV VM implementation (ISA, parser+compiler, VM)
  
 - **Algorithms and Data structures** (C++, STL)
