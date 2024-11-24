@@ -79,7 +79,7 @@
   - [intro: Euler project algo solutions](https://github.com/Imtjl/fp-euler-project)
   - [lab: Dict implementation on Red-Black tree](https://github.com/Imtjl/fp-red-black-tree-dict)
   - [lab: Interpolation CLI](https://github.com/Imtjl/fp-interpolation-cli)
-  - [WIP] [project: Google docs, but in markdown](https://github.com/Imtjl/markdown-docs)
+  - [WIP] [project: Google docs, but in markdown](https://github.com/markdown-docs)
 
 - **Digital circuit design** (System Verilog, RTL)
   - [Demultiplexer 1 of 4 base implementation](https://github.com/Imtjl/digital-design-fundamentals?tab=readme-ov-file#developement-of-demultiplexer-1-of-4)
